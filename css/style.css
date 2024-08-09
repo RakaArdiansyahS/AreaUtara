@@ -1,0 +1,92 @@
+.warna1 {
+    background-color: #27374D;
+}
+
+.warna2 {
+    background-color: #526D82;
+}
+
+.warna3 {
+    background-color: #9DB2BF;
+}
+
+.warna4 {
+    background-color: #DDE6ED;
+}
+
+
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/bannerfix.png');
+}
+
+.highlighted-kategori {
+    height: 250px;
+}
+
+.kategori-balaclava{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/balaclavakategori.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-hoodie{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/hoodiekategori.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-baju{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/bajukategori.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover {
+    color: #9DB2BF;
+}
+
+.text-harga {
+    font-size: 20px;
+    color: #526D82;
+}
+
+.image-box {
+    height: 250px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+footer a:hover {
+    color: #ddd; /* Warna teks saat hover */
+}
+
+footer i {
+    transition: color 0.3s; /* Transisi warna saat hover */
+}
+
+footer i:hover {
+    color: #ddd; /* Warna ikon saat hover */
+}
+
+.banner-produk {
+    height: 30vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/bannerproduk.png');
+}
+
+.no-decor {
+    text-decoration: none;
+    color: black;
+}
+
